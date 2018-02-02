@@ -6,6 +6,7 @@ import matplotlib.pyplot
 %matplotlib inline
 
    
+   
 # 신경망 클래스 정의
 class neuralNetwork:
     
